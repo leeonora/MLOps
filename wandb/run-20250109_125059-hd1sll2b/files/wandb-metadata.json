@@ -1,0 +1,27 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "CPython 3.11.11",
+  "startedAt": "2025-01-09T11:51:00.183679Z",
+  "program": "c:\\Users\\leono\\OneDrive\\Desktop\\ML Ops\\my_repo\\weights_and_bias_solution.py",
+  "codePath": "weights_and_bias_solution.py",
+  "email": "s193602@dtu.dk",
+  "root": "C:\\Users\\leono\\OneDrive\\Desktop\\ML Ops\\my_repo",
+  "host": "Friday",
+  "executable": "C:\\Users\\leono\\anaconda3\\envs\\my_environment\\python.exe",
+  "codePathLocal": "weights_and_bias_solution.py",
+  "cpu_count": 12,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "510560374784",
+      "used": "415588610048"
+    }
+  },
+  "memory": {
+    "total": "16785276928"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 16
+  }
+}

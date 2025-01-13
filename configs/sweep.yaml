@@ -1,0 +1,21 @@
+program: weights_and_bias_solution3.py
+name: corrupt_mnist
+project: corrupt_mnist
+entity: s193602-danmarks-tekniske-universitet-dtu
+method: random
+metric:
+    goal: minimize
+    name: validation_loss
+parameters:
+    learning_rate:
+        min: 0.0001
+        max: 0.1
+        distribution: log_uniform
+    batch-size:
+        values: [16, 32, 64]
+    epochs:
+        values: [5, 10, 15]
+run_cap: 10
+
+# run this with wandb sweep configs/sweep.yaml
+# get sweep ID and run: wandb agent s193602-danmarks-tekniske-universitet-dtu/corrupt_mnist/jy78gltz

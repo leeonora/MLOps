@@ -1,0 +1,27 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "CPython 3.11.11",
+  "startedAt": "2025-01-09T13:26:53.574004Z",
+  "program": "c:\\Users\\leono\\OneDrive\\Desktop\\ML Ops\\my_repo\\download_model.py",
+  "codePath": "download_model.py",
+  "email": "s193602@dtu.dk",
+  "root": "C:\\Users\\leono\\OneDrive\\Desktop\\ML Ops\\my_repo",
+  "host": "Friday",
+  "executable": "C:\\Users\\leono\\anaconda3\\envs\\my_environment\\python.exe",
+  "codePathLocal": "download_model.py",
+  "cpu_count": 12,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "510560374784",
+      "used": "416068620288"
+    }
+  },
+  "memory": {
+    "total": "16785276928"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 16
+  }
+}
